@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubh587
-- 👀 I’m interested in space exploration, VR/AR technology, and cybersecurity
+- 👀 I’m interested in space exploration, VR/AR technology, and robotics
 - 🌱 I’m currently learning/studying Full Stack Enginnering, Object Oriented Programming in C++, and Computer Engineering
 - 💞️ I’m looking to collaborate on CS and electrical engineering projects
 - 📫 How to reach me sms9977@nyu.edu
