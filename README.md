@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubh587
+- 👋 Hi, I’m Shubh Savani
 - 👀 I’m interested in space exploration, VR/AR technology, and robotics
 - 🌱 I’m currently learning/studying Computer Networking, Object Oriented Programming in C++, and Computer Engineering
 - 💞️ I’m looking to collaborate on CS and electrical engineering projects
