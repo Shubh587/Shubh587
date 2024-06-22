@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubh Savani
 - 👀 I’m interested in space exploration, machine learning/AI, and robotics
-- 🌱 I’m currently learning/studying computer engineering, machine learning, and deep learning at NYU Tandon.
-- 💞️ I’m looking to collaborate on CS and electrical engineering projects
+- 🌱 I am a recent graduate from NYU Tandon with a Bachelors of Science in Computer Engineering.
+- 💞️ I’m looking to collaborate on CS and ML Projects.
 - 📫 How to reach me sms9977@nyu.edu
 
 <!---
